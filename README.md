@@ -60,9 +60,9 @@ virtual_ipaddress {
 
 *Пришлите  конфигурацию сервисов для каждой ноды и скриншот вывода команды  ip address.*
 
-![alt text](https://github.com/Fameq/10.1-hw//blob/master/node1.png)
+![alt text](https://github.com/Fameq/10.1-hw/blob/master/img/node1.png)
 
-![alt text](https://github.com/Fameq/10.1-hw//blob/master/node2.png)
+![alt text](https://github.com/Fameq/10.1-hw/blob/master/img/node2.png)
 
 ## Дополнительные задания (со звездочкой*)
 
